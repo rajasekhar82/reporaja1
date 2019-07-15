@@ -1,0 +1,3 @@
+git status 
+git show --name-only commitid
+git cherry-pick commitid
